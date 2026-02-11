@@ -1,10 +1,19 @@
 # Generative AI fundamentals
 
-This repository documents my structured exploration of Generative AI concepts, from foundations to advanced techniques.
-## Contents: 
-- Foundations (tokenization, embeddings, transformers intuition)
-- Prompt engineering
-- RAG experiments
-- Fine-tuning demos (LoRA / PEFT)
-- Tool calling / agents prototypes
-- Evaluation experiments
+A structured exploration of Generative AI concepts, experiments, and prototypes — from foundations to advanced techniques.
+It is an experimental, concept-driven and iterative process.
+
+## Topics covered: 
+LLM Foundations
+Prompt Engineering
+Embeddings & Similarity
+RAG Systems
+Fine-Tuning
+Tool Calling / Agents
+Evaluation & Guardrails
+Multimodal Experiments
+
+## Tech stack
+Python, notebooks, libraries (Transformers, LangChain/LlamaIndex/FAISS etc.)
+
+## Navigation guide
